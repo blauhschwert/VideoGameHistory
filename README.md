@@ -9,3 +9,7 @@ Blaushchwert's look for free present for world
 # 19:08 - using ungit as Git gui for Linux
 - since git cola and I got some differences because of stupid monkey behaivor i changed 
 - to ungit because time is so important nowdays and with money i change again to gitkraken ...
+
+# 19:15 - I need to be better !
+- The configuration of work environment is so important for a 
+- proper work live balance especially if it about computer science...
