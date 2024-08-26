@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://6dhrxgmxxucy"
-path="res://.godot/imported/DangerSymbol.png-84def657c4374f7ca92fb0279e157510.ctex"
+uid="uid://crglisa75yu2e"
+path="res://.godot/imported/GameField.png-7cb9a439f38d14511f2d072526c4e995.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/DangerSymbol.png"
-dest_files=["res://.godot/imported/DangerSymbol.png-84def657c4374f7ca92fb0279e157510.ctex"]
+source_file="res://number_one/assets/sprites/GameField.png"
+dest_files=["res://.godot/imported/GameField.png-7cb9a439f38d14511f2d072526c4e995.ctex"]
 
 [params]
 

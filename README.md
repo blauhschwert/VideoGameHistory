@@ -2,7 +2,7 @@
 
 Blaushchwert's look for free present for world
 
-# 12.05.2024 Blauh is working on some small Games on the Godot engine...
+# 12.08.2024 Blauh is working on some small Games on the Godot engine...
 - Hello dear folks my name is Blaushchwert and I am again back to test my
 - my programming knowledge after a long period of time -.- !
 
@@ -12,4 +12,9 @@ Blaushchwert's look for free present for world
 
 # 19:15 - I need to be better !
 - The configuration of work environment is so important for a 
-- proper work live balance especially if it about computer science...
+- proper work live balance especially if it about computer science..
+
+
+# 26.08.2024 Guess who is back again...
+- Hello my dear fellas Blauh is back again in the Game and he wants to stay in Game Developer mode for a long time...
+- I want to create now a carrer as amateur game developer and see how good I am ... my english needs to get better XD!

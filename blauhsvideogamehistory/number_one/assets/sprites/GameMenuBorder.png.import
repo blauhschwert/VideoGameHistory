@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c8jqycv438nrv"
-path="res://.godot/imported/EnemySprite.png-df1e1f966444e618fadea75911de26d8.ctex"
+uid="uid://crecyp88nlp1e"
+path="res://.godot/imported/GameMenuBorder.png-65a60fd163347b59ad73a64daeb2d47a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/EnemySprite.png"
-dest_files=["res://.godot/imported/EnemySprite.png-df1e1f966444e618fadea75911de26d8.ctex"]
+source_file="res://number_one/assets/sprites/GameMenuBorder.png"
+dest_files=["res://.godot/imported/GameMenuBorder.png-65a60fd163347b59ad73a64daeb2d47a.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://cvvdoqamav423"
-path="res://.godot/imported/Pixolletta8px.ttf-d963a3a3012f5040a29ad5ded229109e.fontdata"
+path="res://.godot/imported/Pixolletta8px.ttf-750058caa2b7147ec6e2eda3d2653cfe.fontdata"
 
 [deps]
 
-source_file="res://assets/fonts/pixolletta8px/Pixolletta8px.ttf"
-dest_files=["res://.godot/imported/Pixolletta8px.ttf-d963a3a3012f5040a29ad5ded229109e.fontdata"]
+source_file="res://number_one/assets/fonts/pixolletta8px/Pixolletta8px.ttf"
+dest_files=["res://.godot/imported/Pixolletta8px.ttf-750058caa2b7147ec6e2eda3d2653cfe.fontdata"]
 
 [params]
 

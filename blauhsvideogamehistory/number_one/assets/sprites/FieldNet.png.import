@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c8hcc7ysu3dos"
-path="res://.godot/imported/GameMenuBorderFinal.png-58f140d46479cd9b16087292e0d84c8c.ctex"
+uid="uid://n372joulci6l"
+path="res://.godot/imported/FieldNet.png-fdd4c73dec58b71db3448f6fa661d0cc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/GameMenuBorderFinal.png"
-dest_files=["res://.godot/imported/GameMenuBorderFinal.png-58f140d46479cd9b16087292e0d84c8c.ctex"]
+source_file="res://number_one/assets/sprites/FieldNet.png"
+dest_files=["res://.godot/imported/FieldNet.png-fdd4c73dec58b71db3448f6fa661d0cc.ctex"]
 
 [params]
 

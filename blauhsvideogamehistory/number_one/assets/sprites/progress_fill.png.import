@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://n372joulci6l"
-path="res://.godot/imported/FieldNet.png-f883df263de3b7e544aca90fbd9d27dc.ctex"
+uid="uid://blmwkyxd0oo8e"
+path="res://.godot/imported/progress_fill.png-c767b508a6fe4dd87928e6b47c3ba2b7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/FieldNet.png"
-dest_files=["res://.godot/imported/FieldNet.png-f883df263de3b7e544aca90fbd9d27dc.ctex"]
+source_file="res://number_one/assets/sprites/progress_fill.png"
+dest_files=["res://.godot/imported/progress_fill.png-c767b508a6fe4dd87928e6b47c3ba2b7.ctex"]
 
 [params]
 

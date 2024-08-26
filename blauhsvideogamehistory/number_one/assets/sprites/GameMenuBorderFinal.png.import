@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b5n6uunbpn86c"
-path="res://.godot/imported/progress_background.png-4887ff11de836cb28009b1a57aac696a.ctex"
+uid="uid://c8hcc7ysu3dos"
+path="res://.godot/imported/GameMenuBorderFinal.png-f54ebd97491e11dc6a47a08c68deb991.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/progress_background.png"
-dest_files=["res://.godot/imported/progress_background.png-4887ff11de836cb28009b1a57aac696a.ctex"]
+source_file="res://number_one/assets/sprites/GameMenuBorderFinal.png"
+dest_files=["res://.godot/imported/GameMenuBorderFinal.png-f54ebd97491e11dc6a47a08c68deb991.ctex"]
 
 [params]
 
