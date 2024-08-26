@@ -1,0 +1,7 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://dnfjarjq5visd"]
+
+[ext_resource type="FontFile" uid="uid://cvvdoqamav423" path="res://assets/fonts/pixolletta8px/Pixolletta8px.ttf" id="1_jxeon"]
+
+[resource]
+default_font = ExtResource("1_jxeon")
+default_font_size = 10
