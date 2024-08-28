@@ -18,3 +18,8 @@ Blaushchwert's look for free present for world
 # 26.08.2024 Guess who is back again...
 - Hello my dear fellas Blauh is back again in the Game and he wants to stay in Game Developer mode for a long time...
 - I want to create now a carrer as amateur game developer and see how good I am ... my english needs to get better XD!
+
+# 28.08.2024 Hello World!
+- 13:18
+-   I know i got some problems with continuity but to never give up on you dream is the biggest secret on succsess.
+-   And like I said i dont focus on grammer and correct speeling only on the art itself.
