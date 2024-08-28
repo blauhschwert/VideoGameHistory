@@ -1,0 +1,36 @@
+[gd_scene load_steps=6 format=3 uid="uid://5qm8uts40el8"]
+
+[ext_resource type="Script" path="res://number_one/scenes/player_racket/player_racket.gd" id="1_8yg6h"]
+[ext_resource type="Texture2D" uid="uid://bjq3ij0b16ni7" path="res://number_one/assets/sprites/PlayerSprite.png" id="2_o147c"]
+[ext_resource type="FontFile" uid="uid://cvvdoqamav423" path="res://number_one/assets/fonts/pixolletta8px/Pixolletta8px.ttf" id="3_k6yl1"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_py04y"]
+radius = 6.0
+
+[sub_resource type="LabelSettings" id="LabelSettings_t0jr1"]
+font = ExtResource("3_k6yl1")
+font_size = 10
+
+[node name="PlayerRacket" type="CharacterBody2D"]
+motion_mode = 1
+script = ExtResource("1_8yg6h")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(-5, 0)
+rotation = 1.5708
+texture = ExtResource("2_o147c")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_py04y")
+
+[node name="DebugState" type="Label" parent="."]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -20.0
+offset_right = 20.0
+offset_bottom = 23.0
+grow_horizontal = 2
+label_settings = SubResource("LabelSettings_t0jr1")
+horizontal_alignment = 1
+vertical_alignment = 1
